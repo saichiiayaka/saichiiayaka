@@ -6,5 +6,5 @@ My name is **Mohamad Rifa Algifari Mulia Sembiring** or you can call me Rifa. I 
 
 ## my project so far:
 **code**
-git clone "https://github.com/saichiiayaka/CV-Rifa.git"
-git clone "https://github.com/saichiiayaka/PPWL_231402121.git"
+- git clone "https://github.com/saichiiayaka/CV-Rifa.git"
+- git clone "https://github.com/saichiiayaka/PPWL_231402121.git"
